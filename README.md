@@ -20,7 +20,7 @@ The BZ reaction can be simplified into three main processes:
 
   $$
   \begin{align}
-  \( \text{BrO}_3^- + 3 \text{HBr}_2 + 3 \text{H}^+ \rightarrow 3 \text{Br}_2 + 3 \text{H}_2\text{O} \).
+  \text{BrO}_3^- + 3 \text{HBr}_2 + 3 \text{H}^+ \rightarrow 3 \text{Br}_2 + 3 \text{H}_2\text{O}.
   \end{align}
   $$
   
