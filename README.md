@@ -24,7 +24,7 @@ The BZ reaction can be simplified into three main processes:
   \end{align}
   $$
   
-3. **Oxidation of the Organic Substrate:**
+2. **Oxidation of the Organic Substrate:**
 
    $$
    \begin{align}
@@ -33,7 +33,7 @@ The BZ reaction can be simplified into three main processes:
    \end{align}
    $$
 
-5. **Regeneration of Bromide Ions:**
+3. **Regeneration of Bromide Ions:**
    \[
    2 \text{Ce}^{4+} + \text{CH}_2(\text{COOH})_2 + \text{H}_2\text{O} \rightarrow 2 \text{Ce}^{3+} + 2 \text{CO}_2 + 6 \text{H}^+
    \]
