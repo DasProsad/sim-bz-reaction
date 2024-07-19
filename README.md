@@ -7,27 +7,9 @@ The reaction can be modelled
 $$
   \begin{aligned}
     A + B \rightarrow 2A \\
-    arr[q, 0] = s[0] + s[0] * (alpha * s[1] - gamma * s[2]) \\
-    arr[q, 1] = s[1] + s[1] * (beta * s[2] - alpha * s[0]) \\
-    arr[q, 2] = s[2] + s[2] * (gamma * s[0] - beta * s[1])
+    B + C \rightarrow 2B \\
+    C + A \rightarrow 2C
   \end{aligned}
-$$
-
-</div>
-
-# Centered Equations Example
-
-Here is a set of centered equations:
-
-<div align="center">
-
-$$
-\begin{aligned}
-    A + B \rightarrow 2A \\
-    arr[q, 0] = s[0] + s[0] * (alpha * s[1] - gamma * s[2]) \\
-    arr[q, 1] = s[1] + s[1] * (beta * s[2] - alpha * s[0]) \\
-    arr[q, 2] = s[2] + s[2] * (gamma * s[0] - beta * s[1])
-\end{aligned}
 $$
 
 </div>
