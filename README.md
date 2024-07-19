@@ -29,6 +29,7 @@ The BZ reaction can be simplified into three main processes:
    $$
    \begin{align}
    \text{Br}_2 + \text{CH}_2(\text{COOH})_2 \rightarrow 2 \text{BrCH}(\text{COOH})_2.
+   \text{Br}_2 + \text{CH}_2(\text{COOH})_2 \rightarrow 2 \text{BrCH}(\text{COOH})_2.
    \end{align}
    $$
 
@@ -45,13 +46,13 @@ The mathematical model often used to describe the BZ reaction involves partial d
 
 #### Oregonator Model Equations
 
-\[
+$$
 \begin{aligned}
     \frac{\partial u}{\partial t} &= D_u \nabla^2 u + f(u, v, w) \\
     \frac{\partial v}{\partial t} &= D_v \nabla^2 v + g(u, v, w) \\
     \frac{\partial w}{\partial t} &= D_w \nabla^2 w + h(u, v, w)
 \end{aligned}
-\]
+$$
 
 where \( u, v, w \) are the dimensionless concentrations of the chemical species, \( D_u, D_v, D_w \) are their respective diffusion coefficients, and \( f, g, h \) are the nonlinear reaction terms.
 The reaction can be modelled 
