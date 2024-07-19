@@ -14,4 +14,20 @@ $$
 $$
 
 </div>
+
+# Centered Equations Example
+
+Here is a set of centered equations:
+
+<div align="center">
+
+$$
+\begin{aligned}
+    \frac{\partial u}{\partial t} &= D_u \nabla^2 u + f(u, v) \\
+    \frac{\partial v}{\partial t} &= D_v \nabla^2 v + g(u, v)
+\end{aligned}
+$$
+
+</div>
+
 <p align="center"> <img src="bz_sim.gif" alt="A beautiful scenery" width="500"/> </p>
