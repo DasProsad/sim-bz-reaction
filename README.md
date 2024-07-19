@@ -74,7 +74,9 @@ Then, the dynamics can be written as a set of three difference equations:
 
 $$
 \begin{aligned}
-A_{t+1} = A_{t} + A_{t}(\alpha B_{t} - \gamma C_{t})
+A_{t+1} = A_{t} + A_{t}(\alpha B_{t} - \gamma C_{t}) \\
+B_{t+1} = B_{t} + B_{t}(\beta C_{t} - \alpha A_{t}) \\
+C_{t+1} = C_{t} + C_{t}(\gamma A_{t} - \beta B_{t})
 \end{aligned}
 $$
 
