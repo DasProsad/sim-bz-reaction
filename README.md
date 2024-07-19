@@ -56,7 +56,7 @@ $$
 \end{aligned}
 $$
 
-where \( u, v, w \) are the dimensionless concentrations of the chemical species, \( D_u, D_v, D_w \) are their respective diffusion coefficients, and \( f, g, h \) are the nonlinear reaction terms.
+where ( $u, v, w $) are the dimensionless concentrations of the chemical species, ( $D_u, D_v, D_w$ ) are their respective diffusion coefficients, and ( $f, g, h $) are the nonlinear reaction terms.
 
 ### Simulation of the BZ reaction with a minimal model
 
@@ -80,4 +80,5 @@ C_{t+1} = C_{t} + C_{t}(\gamma A_{t} - \beta B_{t})
 \end{aligned}
 $$
 
+A simulation with the above equations with ```bz_sim.py``` run for 10 seconds and $\alpha$ = $\beta$ = $\gamma$ = 1 looks like:
 <p align="center"> <img src="bz_sim.gif" alt="A beautiful scenery" width="500"/> </p>
