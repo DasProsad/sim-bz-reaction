@@ -1,7 +1,10 @@
-# Simulation of the Belousov-Zhabotinskii Reaction
+# Simulation of the Belousov-Zhabotinsky reaction
+
+The reaction can be modelled 
 
 $$
 \begin{align}
+A + B \rightarrow 2A \\
 arr[q, 0] = s[0] + s[0] * (alpha * s[1] - gamma * s[2]) \\
 arr[q, 1] = s[1] + s[1] * (beta * s[2] - alpha * s[0]) \\
 arr[q, 2] = s[2] + s[2] * (gamma * s[0] - beta * s[1])
