@@ -17,9 +17,7 @@ The reaction proceeds through a series of intermediate steps, leading to periodi
 
 The BZ reaction can be simplified into three main processes:
 1. **Production of Bromine (Br₂):**
-   $$
-   {BrO}_3^- + 3 {HBr}_2 + 3 {H}^+ \rightarrow 3 \{Br}_2 + 3 {H}_2\{O}
-   $$
+  \( \text{BrO}_3^- + 3 \text{HBr}_2 + 3 \text{H}^+ \rightarrow 3 \text{Br}_2 + 3 \text{H}_2\text{O} \).
 
 2. **Oxidation of the Organic Substrate:**
    \[
