@@ -28,9 +28,9 @@ The BZ reaction can be simplified into three main processes:
 
    $$
    \begin{align}
-   \text{Br}_2 + \text{CH}_2(\text{COOH})_2 \rightarrow 2 \text{BrCH}(\text{COOH})_2
+   \text{Br}_2 + \text{CH}_2(\text{COOH})_2 \rightarrow 2 \text{BrCH}(\text{COOH})_2.
    \end{align}
-  $$
+    $$
 
 5. **Regeneration of Bromide Ions:**
    \[
