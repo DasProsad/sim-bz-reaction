@@ -57,9 +57,10 @@ $$
 $$
 
 where \( u, v, w \) are the dimensionless concentrations of the chemical species, \( D_u, D_v, D_w \) are their respective diffusion coefficients, and \( f, g, h \) are the nonlinear reaction terms.
-The reaction can be modelled 
 
-<div align="center">
+### Simulation of the BZ reaction with a minimal model
+
+The reaction can be simplified as:
 
 $$
   \begin{aligned}
@@ -69,6 +70,12 @@ $$
   \end{aligned}
 $$
 
-</div>
+Then, the dynamics can be written as a set of three difference equations:
+
+$$
+\begin{aligned}
+A_{t+1} = A_{t} + A_{t}(\alpha B_{t} - \gamma C_{t})
+\end{aligned}
+$$
 
 <p align="center"> <img src="bz_sim.gif" alt="A beautiful scenery" width="500"/> </p>
