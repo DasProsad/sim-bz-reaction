@@ -64,7 +64,7 @@ The reaction can be simplified as:
 
 $$
   \begin{aligned}
-    A + B \rightarrow 2A \\
+    A + B \xrightarrow{\alpha} 2A \\
     B + C \rightarrow 2B \\
     C + A \rightarrow 2C
   \end{aligned}
