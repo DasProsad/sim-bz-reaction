@@ -26,12 +26,12 @@ The BZ reaction can be simplified into three main processes:
   $$
   
 2. **Oxidation of the Organic Substrate:**
-   
-   $$
-   \begin{aligned}
-   \text{Br}_2 + \text{CH}_2(\text{COOH})_2 \rightarrow 2 \text{BrCH}(\text{COOH})_2.
-   \end{aligned}
-   $$
+  $$
+  \begin{align}
+  \text{BrO}_3^- + 3 \text{HBr}_2 + 3 \text{H}^+ \rightarrow 3 \text{Br}_2 + 3 \text{H}_2\text{O}.
+  \text{Br}_2 + \text{CH}_2(\text{COOH})_2 \rightarrow 2 \text{BrCH}(\text{COOH})_2.
+  \end{align}
+  $$
 
 4. **Regeneration of Bromide Ions:**
    \[
