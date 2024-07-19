@@ -33,9 +33,12 @@ The BZ reaction can be simplified into three main processes:
   $$
 
 4. **Regeneration of Bromide Ions:**
-   \[
-   2 \text{Ce}^{4+} + \text{CH}_2(\text{COOH})_2 + \text{H}_2\text{O} \rightarrow 2 \text{Ce}^{3+} + 2 \text{CO}_2 + 6 \text{H}^+
-   \]
+
+  $$
+  \begin{align}
+  \text{Ce}^{4+} + \text{CH}_2(\text{COOH})_2 + \text{H}_2\text{O} \rightarrow 2 \text{Ce}^{3+} + 2 \text{CO}_2 + 6 \text{H}^+.
+  \end{align}
+  $$
 
 These reactions repeat in a cyclic manner, leading to the observed oscillations.
 
